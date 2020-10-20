@@ -1,0 +1,5 @@
+.env
+node_modules/
+
+
+#file to be ignore because of API key.
